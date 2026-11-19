@@ -1,0 +1,17 @@
+# AnimeShowoff
+
+> AnimeShowoff (https://animeshowoff.com) makes AI anime portraits that actually look like you: upload one photo, pick anime, cosplay or fantasy looks, and receive portraits that keep your face, expression, eye colour, hair colour and skin tone unchanged. One-time packs (12 / 36 / 60 portraits at $3.99 / $9.99 / $19.99), no subscription. Currently pre-launch — visitors join a waitlist for founding-member early access.
+
+## Pages
+
+- [Home](https://animeshowoff.com/): product overview, real pipeline test wall ("Tested on faces like these" — demo models are AI-generated people, every makeover is a real output), how it works, pricing, waitlist, FAQ.
+- [Anime Portrait](https://animeshowoff.com/anime-portrait/): the signature anime portrait looks — Anime Braids, Star Eyes, Shoujo — and how likeness is preserved.
+- [Cosplay Portraits](https://animeshowoff.com/cosplay/): full-body witch, maid and vampire cosplay portraits from one photo; the vampire look deliberately uses no fangs so the face stays untouched.
+- [Xianxia Portraits](https://animeshowoff.com/xianxia/): ethereal xianxia fantasy portraits that keep silver hair, age lines and real features as the signature instead of erasing them.
+
+## Key facts
+
+- Tagline: "AI anime portraits that actually look like you."
+- Differentiator: likeness — competitors' top complaints are "doesn't look like me", whitening, and subscription pricing; AnimeShowoff locks identity anchors and sells one-time packs.
+- Flow: upload photo → pick looks (or select all) → portraits delivered; two candidates are generated per look and the best is selected automatically, the customer never picks.
+- Privacy: uploaded photos are used only to make portraits and deleted within 24 hours.
